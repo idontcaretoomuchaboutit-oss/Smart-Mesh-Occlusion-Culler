@@ -14,7 +14,7 @@ Standard engine occlusion culling (Frustum/Umbra) hides entire objects but canno
 * **📱 For Mobile:** drastic reduction in vertex processing power, saving battery and reducing thermal throttling.
 * **🥽 For VR:** critical for maintaining stable 90/120 FPS by eliminating non-contributing geometry.
 * **🖥️ For PC/Console:** enables massive static scenes (cities, architecture) by culling millions of hidden polygons.
-
+<img width="455" height="850" alt="image" src="https://github.com/user-attachments/assets/68048794-dbc7-4509-9fdc-4964ce337a66" />
 ---
 
 ## 🌟 Key Features
